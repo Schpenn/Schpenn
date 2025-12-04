@@ -12,7 +12,8 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I used to live in a Buddhist monastery i Bhutan
 
 ## Things i have played around with:
-` 
+
+<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30">
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg width="30">
@@ -27,5 +28,8 @@ Here are some ideas to get you started: -->
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg width="30">
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/eleventy/eleventy-original.svg width="30"> 
 
-`
-<img src="https://github-readme-stats.vercel.app/api?username=Schpenn&show_icons=true&theme=shadow_blue" width="400">
+<br>
+
+[![My user statistics](images/contribs.svg)](https://github.com/cicirello/user-statistician)
+
+[![My user statistics](images/languages.svg)](https://github.com/cicirello/user-statistician)
